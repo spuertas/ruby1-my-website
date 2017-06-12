@@ -10,7 +10,7 @@ As you begin to imagine how your site will look think about the way you built ou
 
 Next, think about the style of your website.  We spent some time working with CSS to add color, stylize fonts, and arrange items on the page.  Remember when working with CSS to use classes and ids in addition to just using HTML tags.
 
-Before you build anything out though make a plan on paper first and then try to follow it instead of making things up as you go.  Use jsfiddle(http://jsfiddle.net/) to experiment with ideas.
+Before you build anything out though make a plan on paper first and then try to follow it instead of making things up as you go.  
 
 Other great resources you can use are: 
 + [Mozilla Developer Netowrk HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
@@ -19,7 +19,3 @@ Other great resources you can use are:
 + [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 
 Most important though...HAVE FUN!!!!!!!
-
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby1-my-website' title='My Super Awesome and Amazing Website!!!!!'>My Super Awesome and Amazing Website!!!!!</a> on Learn.co and start learning to code for free.</p>
