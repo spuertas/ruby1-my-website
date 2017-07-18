@@ -2,6 +2,9 @@ body {
     background-color: #F3DBFB;
     font-family: monospace;
 }
+h2 {
+    text-align: center;
+}
 h3 {
     text-align: center;
 }
@@ -9,14 +12,9 @@ img {
     display: block;
     margin: auto;
 }
-p {
-    text-align: center;
-}
+
 h1 {
     color: purple;
     font-family: monospace;
     text-align: center;
-}
-ul {
-    color: hotpink;
 }
